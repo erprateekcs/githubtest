@@ -1,1 +1,8 @@
+<<<<<<< Updated upstream
 tet---mmmmmm
+=======
+tet
+
+nnn
+
+>>>>>>> Stashed changes
